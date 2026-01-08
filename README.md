@@ -92,7 +92,7 @@ The system enhances medical images, segments stone regions, extracts texture fea
 │   └── output_images/
 ├── README.md
 
-
+---
 🚀 How to Run the Project
 Install MATLAB with Image Processing Toolbox
 
@@ -107,7 +107,7 @@ Execute segmentation and feature extraction
 Train and test CNN model
 
 View detection results
-
+---
 🔮 Future Scope
 Integration with real-time hospital systems
 
@@ -116,13 +116,13 @@ Support for multi-modal medical images
 Web-based or mobile diagnostic application
 
 Enhanced CNN architectures for better accuracy
-
+---
 👩‍💻 Developed by MaddikeraPoojitha 
-
+---
 🏫 Institution
 Sreenivasa Institute of Technology and Management Studies (SITAMS)
 Department of Computer Science and Engineering
-
+---
 📜 License
 This project is developed for academic and research purposes.
 
