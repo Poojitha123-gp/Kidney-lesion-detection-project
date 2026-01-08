@@ -115,14 +115,7 @@ Web-based or mobile diagnostic application
 
 Enhanced CNN architectures for better accuracy
 
-👩‍💻 Team Members
-M Poojitha
-
-J Bhavya Sree
-
-K Sowmya
-
-P Chandini
+👩‍💻 Developed by MaddikeraPoojitha 
 
 🏫 Institution
 Sreenivasa Institute of Technology and Management Studies (SITAMS)
