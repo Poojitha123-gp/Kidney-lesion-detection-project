@@ -77,7 +77,7 @@ The system enhances medical images, segments stone regions, extracts texture fea
 ---
 
 ## 📂 Project Structure
-```text
+
 ├── dataset/
 │   └── kidney_images/
 ├── preprocessing/
@@ -91,6 +91,8 @@ The system enhances medical images, segments stone regions, extracts texture fea
 ├── results/
 │   └── output_images/
 ├── README.md
+
+
 🚀 How to Run the Project
 Install MATLAB with Image Processing Toolbox
 
